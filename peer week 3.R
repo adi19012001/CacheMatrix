@@ -1,5 +1,6 @@
 ##Aditya Singh
 # week 3 peer graded asignment
+#1st fuction
 
 makeCacheMatrix <- function(x = matrix()) {
   j <- NULL
@@ -16,6 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 #cachesolve
+# 2nd function
 
 cacheSolve <- function(x, ...) {
   ## Return a matrix that is the inverse of 'x'
